@@ -504,7 +504,7 @@ This comprehensive UniProt MCP Server is developed by **[Augmented Nature](https
 ## Citation
 If you use this project in your research or publications, please cite it as follows:
 
-```bibtex @misc{UniProtmcp2025, 
+```bibtex @misc{uniprotmcp2025, 
 author = {Moudather Chelbi},
 title = {UniProt MCP Server},
 year = {2025},
