@@ -500,3 +500,13 @@ This comprehensive UniProt MCP Server is developed by **[Augmented Nature](https
 - **Enhanced Docker Support**: Multi-stage builds with security best practices
 - **Comprehensive Documentation**: Complete tool reference and examples
 - **Developed by Augmented Nature**: Professional bioinformatics platform
+
+## Citation
+If you use this project in your research or publications, please cite it as follows:
+
+```bibtex @misc{UniProtmcp2025, 
+author = {Moudather Chelbi},
+title = {UniProt MCP Server},
+year = {2025},
+howpublished = {https://github.com/Augmented-Nature/Augmented-Nature-UniProt-MCP-Server/},
+note = {Accessed: 2025-06-29}
